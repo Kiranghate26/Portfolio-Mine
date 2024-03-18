@@ -5,21 +5,33 @@ import Particle from "../Particle";
 
 // Define project data
 const projectsData = [
-  {
-    imgPath: "../../Assets/Projects/chatify.png",
-    isBlog: false,
-    title: "Chatify",
-    description: "Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages.",
-    ghLink: "https://github.com/soumyajit4419/Chatify",
-    demoLink: "https://chatify-49.web.app/"
+  {  
+ 
+    title: "Auction Based",
+    description: "This application is used by end user for sell and purchase second hand machineries. we build user interface more interactive and user friendly. Multiple user can place there auction on single machine and highest bidder can win machine. We provide searching interface for machinery, and provide easy way to chat with seller as well as Machinery-Max representative.",
+    // ghLink: "",
+    
   },
   {
-    imgPath: "../../Assets/Projects/blog.png",
-    isBlog: false,
-    title: "Bits-0f-C0de",
-    description: "My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown.",
-    ghLink: "https://github.com/soumyajit4419/Bits-0f-C0de",
-    demoLink: "https://blogs.soumya-jit.tech/"
+   
+    title: "Talent Managment System",
+    description: "Talent Management System web application used for tracking the user details from calfus based on there tech stack and learning tech stack, and keep tracking of technology utilization. It help to know how many employee belong to same technology, and what level of proficiency they have and what skill set they need to improve .",
+    // ghLink: "",
+    
+  },
+  {
+   
+    title: "Data dashboard",
+    description: "Based on Representing an information in form of pie chart, donut chart, bar graph, and different graph and charts. in this project we used C3 library for chart, and represent information into graphical format.",
+    // ghLink: "",
+    
+  },
+  {
+   
+    title: "Wheather App",
+    description: "A simple weather app built using React.js, fetching real-time weather data from a weather API. Features include:- Current weather conditions display for any location- Hourly and daily weather forecasts- Ability to search for weather by city name ",
+    // ghLink: "",
+    
   },
   // Add more project data here...
 ];
