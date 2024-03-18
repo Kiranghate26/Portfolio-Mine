@@ -29,7 +29,7 @@ const projectsData = [
   {
    
     title: "Wheather App",
-    description: "A simple weather app built using React.js, fetching real-time weather data from a weather API. Features include:- Current weather conditions display for any location- Hourly and daily weather forecasts- Ability to search for weather by city name ",
+    description: "Asimple weather app built using React.js, fetching real-time weather data from a weather API. Features include:- Current weather conditions display for any location- Hourly and daily weather forecasts- Ability to search for weather by city name ",
     // ghLink: "",
     
   },
